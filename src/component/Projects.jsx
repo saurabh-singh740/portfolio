@@ -14,7 +14,7 @@ const projects = [
     title: "JobScibe", 
     desc: "Recruiter & applicant matching platform", 
     image: "/jobscibe.png",
-    liveLink: "", 
+    liveLink: "https://jobscibe.onrender.com/", 
     githubLink: "https://github.com/saurabh-singh740/jobscibe" 
   },
   { 

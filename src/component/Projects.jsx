@@ -21,7 +21,7 @@ const projects = [
     title: "VaultIQ", 
     desc: "Vault for storing prompts", 
     image: "/vaultiq.png",
-    liveLink: "", 
+    liveLink: "https://vaultiq-37wz.onrender.com/", 
     githubLink: "https://github.com/saurabh-singh740/vaultiq" 
   },
   { 

@@ -5,21 +5,21 @@ import Card from "../Card";
 const projects = [
   { 
     title: "Aurora", 
-    desc: "Job portal for remote opportunities", 
+    desc: "AI Productivity Assistant", 
     image: "/aurora.png",
     liveLink: "https://chatgpt-wovi.onrender.com/", 
     githubLink: "https://github.com/saurabh-singh740/Chatgpt" 
   },
   { 
     title: "JobScibe", 
-    desc: "Recruiter & applicant matching platform", 
+    desc: "AI-powered Resume Analyzer & Job Recommender", 
     image: "/jobscibe.png",
     liveLink: "https://jobscibe.onrender.com/", 
     githubLink: "https://github.com/saurabh-singh740/jobscibe" 
   },
   { 
     title: "VaultIQ", 
-    desc: "AI-based study tracker", 
+    desc: "Vault for storing prompts", 
     image: "/vaultiq.png",
     liveLink: "", 
     githubLink: "https://github.com/saurabh-singh740/vaultiq" 

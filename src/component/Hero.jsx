@@ -89,9 +89,7 @@ export default function Hero() {
         <div className="text-lg sm:text-xl md:text-2xl text-gray-600 dark:text-gray-300">
           <TypeAnimation
             sequence={[
-              "MERN Stack Developer", 2000,
-              "Frontend & Backend Enthusiast", 2000,
-              "React & Node.js", 2000,
+             "Full-Stack Developer", 2000,
               "Passionate about building modern web apps", 2000,
             ]}
             wrapper="span"
@@ -136,10 +134,11 @@ export default function Hero() {
         className="flex-1 flex justify-center md:justify-end mb-8 md:mb-0 z-10"
       >
         <img
-          src={myPhoto}
-          alt="Saurabh Singh"
-          className="w-[28rem] h-[28rem] sm:w-[32rem] sm:h-[32rem] md:w-[36rem] md:h-[36rem] rounded-full border-4 border-indigo-500 shadow-xl object-cover object-top"
-        />
+  src={myPhoto}
+  alt="Saurabh Singh"
+  className="w-[20rem] h-[20rem] sm:w-[24rem] sm:h-[24rem] md:w-[28rem] md:h-[28rem] rounded-full shadow-lg object-cover object-top"
+/>
+
       </motion.div>
     </section>
   );

@@ -7,21 +7,20 @@ const projects = [
     title: "Aurora", 
     desc: "AI Productivity Assistant", 
     image: "/aurora.png",
-    liveLink: "https://chatgpt-wovi.onrender.com/", 
     githubLink: "https://github.com/saurabh-singh740/Chatgpt" 
   },
   { 
     title: "JobScibe", 
     desc: "AI-powered Resume Analyzer & Job Recommender", 
-    image: "/jobscibe.png",
-    liveLink: "https://jobscibe.onrender.com/", 
+    image: "/j1.png",
+    liveLink: "https://jobscibe-fui.vercel.app/", 
     githubLink: "https://github.com/saurabh-singh740/jobscibe" 
   },
   { 
     title: "VaultIQ", 
     desc: "Vault for storing prompts", 
     image: "/vaultiq.png",
-    liveLink: "https://vaultiq-37wz.onrender.com/", 
+    liveLink: "https://vaultiq-promptvault.vercel.app/", 
     githubLink: "https://github.com/saurabh-singh740/vaultiq" 
   },
   { 
